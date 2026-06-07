@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Indigo rounded background -->
+  <rect width="32" height="32" rx="8" fill="#4f46e5"/>
+  <!-- Code brackets < > -->
+  <path d="M9 16l4-5-4 5 4 5" stroke="#a5b4fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M23 16l-4-5 4 5-4 5" stroke="#a5b4fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Sparkle star in center -->
+  <path d="M16 10v2M16 20v2M10 16h2M20 16h2" stroke="#fbbf24" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="16" cy="16" r="2" fill="#fbbf24"/>
+</svg>
