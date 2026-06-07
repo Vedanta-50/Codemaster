@@ -1,0 +1,6 @@
+{
+  "name": "MarketPro",
+  "description": "CodeMaster AI: An interactive ed-tech engineering learning platform with real-time sandbox REPL code evaluation, responsive HTML live frames, technical interview stopwatches, and server-side Gemini AI senior mentors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
