@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codemaster50.netlify.app/sitemap.xml
